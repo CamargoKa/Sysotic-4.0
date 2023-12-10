@@ -1,0 +1,16 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+@import "~datatablesbs5/css/dataTables.bootstrap5.css";
+
+$fa-font-path:"~fa/../webfonts";
+@import "~fa/fontawesome.scss";
+@import "~fa/solid.scss";
+@import "~fa/regular.scss";
+@import "~fa/brands.scss";
